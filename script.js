@@ -1,6 +1,6 @@
 
          var typed = new Typed('.input', {
-            strings: ["Video Editor", "Programmer", "Web Developer", "Photo Editor"],
+            strings: ["HELLO 👋 I'M FAB. ", "I COMBINE ARTISTRY WITH INNOVATION TO DESIGN EXPERIENCES THAT MOVE."],
             typeSpeed: 100,
             backSpeed:100,
             loop:true,
